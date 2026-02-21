@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Pride and Prejudice Homepage</title>
+  <link rel="stylesheet" href="style/style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <nav>
+ <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="info.html">Info</a></li>
+    <li><a href="favorites.html">Favorites</a></li>
+    <li><a href="gallery.html">Gallery</a></li>
+ </ul>
+</nav>
+
+<h2>My Favorite Games</h2>
+
+<table>
+    <thread>
+    <tr>
+      <th>Title</th>
+      <th>Author</th>
+      <th>Genre</th>
+    </tr>
+    </thread>
+  <tbody>
+     <tr>
+      <td>World of Warcraft</td>
+      <td>Blizzard Entertainment</td>
+      <td>Fantasy</td>
+    </tr>
+  </tbody>
+</table>
+
+    <form>
+        <fieldset>
+        <legend>Favorite Game Survey</legend>
+
+        <label>Your Name:</label>
+    <input type="text" name="name" placeholder="e.g. Elizabeth Bennet">
+
+    <label>Email Address:</label>
+    <input type="email" name="email" placeholder="e.g. liz@longbourn.com"> 
+
+        <label>Submit Your Favorite Game:</label>
+        <input type="text" name="favorite-game" placeholder="Type your favorite game here">
+
+         <label>Favorite Genre:</label> <!-- Dropdown label -->
+    <select name="genre">
+      <option value="RPG">RPG</option>
+      <option value="FPS">FPS</option>
+      <option value="Horror">Horror</option>
+      <option value="Simulator">Simulator</option>
+    </select>
+
+    <label>Preferred Device Type:<label>
+      <label><input type="radio" name="format" value="print"> PC</label>
+      <label><input type="radio" name="format" value="ebook"> Mobile</label>
+      <label><input type="radio" name="format" value="audiobook"> Console</label>
+
+    <label>
+      <input type="checkbox" name="subscribe" value="yes">
+      Subscribe to our monthly game newsettler
+    </label>
+
+  <button type="submit">Submit</button>
+  </fieldset>
+</form>
+
+
+
+</body>
+</html>
