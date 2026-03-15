@@ -1,0 +1,1 @@
+What I like about Flexbox and Grid is that they're highly customizble in different ways. Flexbox is good for one-dimensional layouts and its easy to allign and size out. Grid is great for two-diemnsional layouts and you can position anything how you want. So far I prefer the flexbox layout as its more easier and is somewhat my style preference.
