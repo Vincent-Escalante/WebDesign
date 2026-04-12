@@ -241,3 +241,7 @@ font-size: 0.5rem;
 margin-top: 0px !important; 
 }
 
+.navbar-brand {
+  position: absolute;
+  top: 8px;
+}
