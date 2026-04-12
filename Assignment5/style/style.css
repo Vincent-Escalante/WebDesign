@@ -245,3 +245,9 @@ margin-top: 0px !important;
   position: absolute;
   top: 8px;
 }
+
+.carousel-item img {
+  max-height: 680px;
+  object-fit: cover;
+  width: 100%;
+}
