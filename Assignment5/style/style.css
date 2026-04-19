@@ -251,3 +251,7 @@ margin-top: 0px !important;
   object-fit: cover;
   width: 100%;
 }
+
+.card:hover {
+  transform: scale(1.01);
+}
