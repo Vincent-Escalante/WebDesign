@@ -1,8 +1,8 @@
 
+My plan for the website was to be a blog website where viewers could participate by sending an email of their experiences with the chances of having their experiences shared on the blog. Everything is extremely brief and minimal, but gets to the point.
 
 # Site Plan
 
-My plan
 
 ## Home Page
 
